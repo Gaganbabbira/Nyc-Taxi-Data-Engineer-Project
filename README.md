@@ -13,6 +13,7 @@ The pipeline demonstrates real-world data engineering concepts like ETL, data cl
 - Spark SQL
 - Delta Lake
 - Medallion Architecture
+- Databricks Jobs (Pipeline Orchestration)
 
 ---
 
